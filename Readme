@@ -1,2 +1,7 @@
 !... A MINECRAFT MOD TO GENERATE A server.properties FILE FOR EACH LOCAL WORLD ...!
 https://minecraft.curseforge.com/projects/server-properties-for-lan
+
+修复版 适用于Minecraft1.8.9
+修复了https://github.com/jaideepheer/MinecraftForge-Mods-ServerPropertiesLAN/issues/8
+QingChenW重制
+原作者JaideepSinghHeer

@@ -11,7 +11,6 @@ import java.util.Properties;
  */
 class PropertyManagerClient
 {
-
     private static final Logger LOGGER = LogManager.getLogger();
     /** The server properties object. */
     private final Properties serverProperties = new Properties();

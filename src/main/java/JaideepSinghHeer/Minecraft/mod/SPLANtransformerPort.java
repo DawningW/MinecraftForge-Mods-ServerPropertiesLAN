@@ -105,8 +105,8 @@ public class SPLANtransformerPort implements IClassTransformer {
      */
     public static int getPort()
     {
-        System.out.println("Setting Port : "+ServerPropertiesLAN.instance.port);
+        System.out.println("Setting Port : " + ServerPropertiesLAN.instance.port);
         int port = ServerPropertiesLAN.instance.port;
-        return port>0&&port<=65535?port:0;
+        return port > 0 && port <= 65535 ? port : 0;
     }
 }
